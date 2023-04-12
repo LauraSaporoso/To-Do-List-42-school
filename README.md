@@ -1,6 +1,8 @@
 # To-Do-List-42-school
 
-SUBJECT 42SCHOOL TO DO LIST:
+👩🏻‍💻  My To Do List --> https://laurasaporoso.github.io/To-Do-List-42-school/
+
+🔥 SUBJECT 42SCHOOL TO DO LIST:
 
 For this exercise, we will have to create a mini local task management. The to do list will be represented by a div that will have as id attribute the value ’ft_list’.This bloc contains the list of "TO DO".
 
@@ -12,4 +14,4 @@ To remove a TO DO from the list, all you have to do is click on it. A configurat
 
 Small additional implementation, your TO DO list will have to be saved as a cookie. If the list contains some TO DO when you close you browser, this same list must beloaded and displayed in ’ft_list’. If the cookie(s) do not exist, then the list will be blank.
 
-HTML CSS JAVASCRIPT COOKIE
+💻 HTML CSS JAVASCRIPT COOKIE
