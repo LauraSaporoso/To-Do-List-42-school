@@ -1,6 +1,7 @@
 # To-Do-List-42-school
 
 SUBJECT 42SCHOOL TO DO LIST:
+
 For this exercise, we will have to create a mini local task management. The to do list will be represented by a div that will have as id attribute the value ’ft_list’.This bloc contains the list of "TO DO".
 
 Each TO DO is represented by a divcontained in the ’ft_list’ bloc. When a TO DO is created, it is placed at the top of thelist. Up to you to create the element and place it in the right spot (DOM manipulation).
